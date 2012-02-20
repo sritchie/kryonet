@@ -1,0 +1,11 @@
+.DS_Store
+classes
+lib
+pom.xml
+*.jar
+*.iws
+*.ipr
+.idea
+.lein-failures
+.lein-deps-sum
+.lein-plugins
